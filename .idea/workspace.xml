@@ -12,10 +12,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/REAME.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/api/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/api/v1/__init__.py" afterDir="false" />
@@ -28,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/app/libs/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app/libs/redprint.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
